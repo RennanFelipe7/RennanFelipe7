@@ -17,7 +17,6 @@
   <img align="center" alt="Rennan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rennan-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rennan-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/jDltGii2fhsceSENuT/giphy.gif?cid=790b7611848d13f68412cefd74f07dc9d3ca8f99d42425ee&rid=giphy.gif&ct=g">
 
 </div>
   
