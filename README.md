@@ -1,8 +1,7 @@
 ### Olá! Eu sou Rennan Felipe
 
 - 👨‍🎓 Atualmente sou estudante do curso de Bacharelado em Ciências da Computação
-- :handshake: Estou procurando colaborar em C / C++
-- :bookmark: Me interesso por back-end
+- :bookmark: Me interesso por desenvolvimento Web Full Stack
 
 <div>
   <a href="https://github.com/RennanFelipe7"> 
@@ -17,7 +16,10 @@
   <img align="center" alt="Rennan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rennan-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rennan-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
+  <img align="center" alt="Rennan-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Rennan-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rennan-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Rennan-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
   
   ##
