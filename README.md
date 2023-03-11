@@ -1,6 +1,6 @@
 ### Olá! Eu sou Rennan Felipe
 
-- 👨‍🎓 Atualmente sou estudante do curso de Bacharelado em Ciências da Computação
+- 👨‍🎓 Bacharelado em Ciências da Computação
 - :bookmark: Me interesso por desenvolvimento Web Full Stack
 
 <div>
