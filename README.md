@@ -1,7 +1,8 @@
 ### Olá! Eu sou Rennan Felipe
 
-- 👨‍🎓 Bacharelado em Ciências da Computação
-- :bookmark: Me interesso por desenvolvimento Web Full Stack
+- 👨‍🎓 Bacharel em Ciência da Computação
+- :bookmark: Estudante de desenvolvimento Web Full Stack
+- 💻 Atualmente trabalho com testes automatizados de software com Cypress como ferramenta de teste. 
 
 <div>
   <a href="https://github.com/RennanFelipe7"> 
@@ -20,6 +21,7 @@
   <img align="center" alt="Rennan-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rennan-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Rennan-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
+  <img align="center" alt="Rennan-CSS3" height="30" width="40" src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg"> 
 </div>
   
   ##
